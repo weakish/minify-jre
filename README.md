@@ -77,8 +77,3 @@ License
 -------
 
 The project is licensed 0BSD.
-
-(The `mjar.tar.xz` is for provided for test, of course not part of the project.
-Since it is based on OpenJDK, the license is [GPLv2 + classpath exception][gpl2ce].)
-
-[gpl2ce]: http://openjdk.java.net/legal/gplv2+ce.html
